@@ -69,4 +69,4 @@ Het configureren van de verschillende profielen aan de hand van de behaalde tota
 
 * **Tiddo Vermeulen** - *Groepsleider* - [Tiddo Vermeulen](https://tiddovermeulen.com)
 * **Bas de Kok** - *Teamlid* - [Bas de Kok](https://madebybas.nl)
-* **Rechard Motieram** - *Teamlid* - [Rechard Motieram](https://officialjinzen.com)
+* **Rechard Motieram** - *Teamlid* - [Rechard Motieram](https://officialjinzen.com/myportfolio)
