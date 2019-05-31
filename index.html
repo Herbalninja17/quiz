@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Quiz - Hoe ver ben jij losgebroken?</title>
+    <script src="quiz/quiz.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="quiz/quiz.css">
+</head>
+
+<body>
+    <!--Div waar de quiz in komt-->
+    <div id="quiz"></div>
+    <!--Button om de quiz te laten controleren-->
+    <button id="submit">Bekijk het resultaat!</button>
+    <!--Div waar de resultaten in komen, wanneer er op de button wordt gedrukt-->
+    <div id="results"></div>
+    <script>
+        //quiz.buildQuiz('file path name', 'quiz div name', 'results div name', 'submit div name');
+        quiz.buildQuiz('config.json','quiz', 'results', 'submit');
+    </script>
+</body>
+
+</html>

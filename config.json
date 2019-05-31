@@ -1,0 +1,62 @@
+ {
+    "resultaten": [
+        {
+            "profiel1": "Thrall. Een nieuwe viking die nog veel moet leren",
+            "profiel2": "Viking, een viking die goed op weg is om los te breken.",
+            "profiel3": "Losgebroken Viking! Jij bent echt helemaal los gebroken."
+        }],
+    "vragen": [
+        {
+            "question": "Hoe wordt jij wakker?",
+            "answers": {
+                "Ik slaap niet": "10",
+                "Je zet zelf je eigen wekker en wordt meteen wakker": "20",
+                "Je zet zelf je eigen wekker(s) en laat hem 5 x snoezen": "30",
+                "Ik zet geen wekker": "40"
+            }
+        },
+        {
+            "question": "Hoe regel jij je lunch?",
+            "answers": {
+                "Neem eten mee van thuis": "10",
+                "Laat het bezorgen": "20",
+                "Ik haal het onderweg": "30"
+            }
+        },
+        {
+            "question": "Hoe kom jij van plek naar plek?",
+            "answers": {
+                "Met het openbaar vervoer": "10",
+                "Met de fiets": "20",
+                "Met de auto": "30"
+            }
+        },
+        {
+            "question": "Wat doe jij als je pech onderweg hebt?",
+            "answers": {
+                "Neem ik contact op met familie of vrienden": "10",
+                "Neem ik contact op met mijn pechhulpdienst waar ik een abonnement heb": "20",
+                "Neem ik contact op met een on - demand pechhulpdienst zoals“ RoadGuard”": "30"
+            }
+        },
+        {
+            "question": "Hoe ziet jou kapper situatie eruit?",
+            "answers": {
+                "Op online reservering": "10",
+                "Op afspraak": "20",
+                "Zonder afspraak": "30"
+            }
+        },
+        {
+            "question": "Wat zeg jij tegen een straatverkoper?",
+            "answers": {
+                "Ik wil het doel wel steunen voor..euro in de maand": "10",
+                "Ik wil het doel eenmalig wel steunen voor..euro": "20",
+                "Ik heb geen tijd": "30",
+                "Nee ik wil vrijblijven van de overbodige abonnementen": "40"
+            }
+        }
+    ]
+}
+
+
